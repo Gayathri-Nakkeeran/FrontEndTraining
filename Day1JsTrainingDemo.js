@@ -1,5 +1,5 @@
 //Assignment: Create a JavaScript file to demonstrate all the above-mentioned topics with an example
-
+//
 /* Topic 1 -->Syntax***********************************************************************************************/
 
 // let num = 5;
